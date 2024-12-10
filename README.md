@@ -16,6 +16,8 @@ https://github.com/user-attachments/assets/2306f738-45b1-4656-a50d-4e3e07818c4d
 2. `Gemini API Key`
 3. `Serpertool API Key`
 
+- **Note**: initialise the .env file with `GEMINI_API_KEY` & `SERPER_API_KEY`
+
 
 ## References
 1. [CrewAI](https://crewai.com)
